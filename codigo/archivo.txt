@@ -1,1 +1,3 @@
-Archivo adicional para permitir la creación de carpetas
+import pandas as pd
+arch=pd.read_csv("ubicacion del archivo ",sep=";")
+print(arch)
